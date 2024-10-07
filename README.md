@@ -1,3 +1,3 @@
 # Examne-Parcial-Cloud-Computing
-#Información:
+# Información:
 **Nombres**: Sergio Felipe Delgado Amado
